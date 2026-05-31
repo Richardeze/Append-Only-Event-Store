@@ -22,8 +22,8 @@ file being rewritten — the log file itself is the database.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/Richardeze/Append-Only-Event-Store.git
+cd Append-Only-Event-Store
 
 # 2. Create a virtual environment
 python3 -m venv venv
