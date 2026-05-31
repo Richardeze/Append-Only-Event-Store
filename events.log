@@ -1,5 +1,0 @@
-{"id":"7946ef6c-6712-4715-85c0-6c17bbc32953","type":"order.placed","payload":{"user_id":1},"timestamp":"2026-05-30T12:59:10.581676+00:00"}
-{"id":"81000ae2-ec9c-42b0-b56f-cd0cec408f0a","type":"user.signup","payload":{"user_id":1},"timestamp":"2026-05-30T13:01:36.346882+00:00"}
-{"id":"da752f90-f0b6-496c-8849-683c4364a17d","type":"order.placed","payload":{"user_id":1},"createdAt":"2026-05-31T01:27:12.520725+00:00"}
-{"id":"835a450c-262d-4f37-b30b-cd5d1b6e0209","type":"user.signup","payload":{"user_id":2},"createdAt":"2026-05-31T01:30:23.350903+00:00"}
-{"id":"5d1fe4e0-678f-4d37-bf0b-97d789bc76ec","type":"payment.done","payload":{"user_id":3},"createdAt":"2026-05-31T01:40:28.645701+00:00"}
